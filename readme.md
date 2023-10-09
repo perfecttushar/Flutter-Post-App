@@ -1,5 +1,4 @@
-
-# Smart Home UI
+# Post App
 ## Project Overview:
 
 "Post" is a captivating Flutter app that fosters community engagement. Share your ideas, experiences, and creativity with ease. Join now and discover a vibrant social network like no other.
